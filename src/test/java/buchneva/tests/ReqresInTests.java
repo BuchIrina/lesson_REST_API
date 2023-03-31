@@ -1,4 +1,4 @@
-package buchneva;
+package buchneva.tests;
 
 //package com.wegotrip;
 //
